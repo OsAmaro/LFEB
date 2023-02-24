@@ -11,5 +11,8 @@ Nónio
 Multímetro
 - Learn How to Use a Multimeter! https://www.youtube.com/watch?v=4lAyzRxsbDc
 
+Osciloscópio 
+- Tektronik XYZ PRIMER pdf https://www.tek.com/en/documents/primer/oscilloscope-basics
+
 Resistance Color Code
 - https://resistorcolorcodecalc.com/
